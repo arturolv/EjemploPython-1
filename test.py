@@ -12,3 +12,4 @@ else:
         else:
 
             print("Eres muy burro")
+            print("Eres muy burra")
