@@ -12,4 +12,3 @@ else:
         else:
             print("Suspendido por ahora o no ")
             print("Eres muy burro")
-            print("Eres muy burra")
